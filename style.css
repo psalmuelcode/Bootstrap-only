@@ -1,0 +1,25 @@
+body {
+  font-family: "Arvo", serif;
+}
+
+.height {
+  min-height: 100vh;
+}
+
+.title-underline {
+  width: 200px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+.height-80 {
+  min-height: 80vh;
+}
+
+.about-picture {
+  background: url(img/dell.jpg) center/cover no-repeat fixed;
+  /* background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
+}
